@@ -47,4 +47,13 @@ transporation will help the tourists/residents.
 
 ![](des_moines_dashboard.PNG)
 
-[link to dashboard](https://public.tableau.com/profile/lakshmanan.karuppiah#!/vizhome/DesMoines-case/DesMoinesBikeRental?publish=yes "link to dashboard")
+[link to tableau](https://public.tableau.com/profile/lakshmanan.karuppiah#!/vizhome/DesMoines-case/DesMoinesBikeRental?publish=yes "link to Des Moines Bike Share Tableau")
+
+[link to Des Moines info1](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/ "link to Des Moines Info1")
+
+[link to NYC census data](https://www.census.gov/quickfacts/newyorkcitynewyork "link to New York City Census Data")
+
+[link to Des Moines data](https://www.census.gov/quickfacts/desmoinescityiowa "link to Des Moines Census Data")
+
+[link to Des Moines Tourist Attractions](https://www.planetware.com/tourist-attractions-/des-moines-us-ia-des.htm "link to Des Moines Tourist Attractions")
+
