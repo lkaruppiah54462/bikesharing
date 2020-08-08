@@ -43,8 +43,8 @@ transporation will help the tourists/residents.
 
 ## F. Images and Links
 
-![](nyc.png)
+![](nyc.PNG)
 
-![](des_moines_dashboard.png)
+![](des_moines_dashboard.PNG)
 
 [link to dashboard](https://public.tableau.com/profile/lakshmanan.karuppiah#!/vizhome/DesMoines-case/DesMoinesBikeRental?publish=yes "link to dashboard")
