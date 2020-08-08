@@ -18,9 +18,9 @@ Greater than 2 million rides in the month of August.
 
 1. Number of visitors /resident is about 67 :1 in Des Moines compared to 7:1 in New York City(NYC)
 
-2. Male ration in Des Moines is slightly higher at 50% compared to 48% in NYC. Data for tourist not available.
+2. Male ratio in Des Moines is slightly higher at 50% compared to 48% in NYC. Data for tourist not available.
 
-3. Physically fit population tend to use the program more and this is also favorable for Des Moines.81% vs 79% of the population 
+3. Physically fit population tend to use the program more and this is also favorable for Des Moines - 81% vs 79% of the population 
 are between 5 to 65. Vistor data not available.
 
 4. Des Moines has more McDonalds per unit population.  Population density is lower in Des Moines (2000 per sq.mile )
