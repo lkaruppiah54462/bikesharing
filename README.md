@@ -9,9 +9,13 @@ By using the latest technologies , a viable similar bike program can be implemen
 
 ## B. New York City
 
-New York City has implemented a very effective and efficient bike share program to serve both its population and tourists.
-The data from New York City shows high ridership in the months in summer throughour the day. About ~60% of the riders are males.
-Greater than 2 million rides in the month of August. 
+1. New York City has implemented a very effective and efficient bike share program to serve both its population and tourists.
+
+2. The data from New York City shows high ridership in the months in summer throughour the day. 
+
+3. About ~60% of the riders are males.
+
+4. Greater than 2 million rides in the month of August. 
 
 
 ## C. New York City and Des Moines
